@@ -37,8 +37,8 @@ Reason for using this in my test case design is to create specific object reposi
 <br/>and assist with easy maintenance of the tests. 
 
 <h2>Project Folder Structure:</h2>
-<p>com.buggy.tests â€“ All tests are maintained in this folder
-<p>com.buggy.pages â€“ All web elements and methods for the tests are maintained in this folder. The page names correspond to the respective tests.
+<p>com.buggy.tests : All tests are maintained in this folder
+<p>com.buggy.pages : All web elements and methods for the tests are maintained in this folder. The page names correspond to the respective tests.
 <p>com.buggy.helper :  This folder has following files
 	Web driver initialisation class based on the browser name passed.
 	Helper class to read contents from CSV file.
