@@ -1,6 +1,6 @@
 # TestProject2021
 
-<h1>Buggy Car Rating â€“ Automation Testing </h1>
+<h1>Buggy Car Rating Automation Testing </h1>
 
 This is a java selenium automation project using TestNG framework to automate the features of Buggy cars rating app. 
 
@@ -8,7 +8,7 @@ This is a java selenium automation project using TestNG framework to automate th
 <p>The following software and tools are required to run this project.</p>
 <ul>
 <li>Programming Language: Java (15.0.2)</li>
-<li>Build Management : Maven (Maven â€“ Download Apache Maven)</li>
+<li>Build Management : Maven (Maven Download Apache Maven)</li>
 <li>Plug-In: TestNG framework (7.4.0)</li>
 <li>Development tool: Eclipse IDE (Eclipse Downloads | The Eclipse Foundation)</li>
 </ul>
