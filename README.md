@@ -7,10 +7,10 @@ This is a java selenium automation project using TestNG framework to automate th
 <h2>Pre-Requisites:</h2>
 <p>The following software and tools are required to run this project.</p>
 <ul>
-<li>Programming Language: Java (15.0.2)</li>
-<li>Build Management : Maven (Maven Download Apache Maven)</li>
+<li>Programming Language: Java (1.8)</li>
+<li>Build Management : Maven </li>
 <li>Plug-In: TestNG framework (7.4.0)</li>
-<li>Development tool: Eclipse IDE (Eclipse Downloads | The Eclipse Foundation)</li>
+<li>Development tool: Eclipse IDE </li>
 </ul>
 
 <h2>Automation Test Scenarios</h2> 
